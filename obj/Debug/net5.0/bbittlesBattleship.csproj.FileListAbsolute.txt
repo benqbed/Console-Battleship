@@ -1,0 +1,16 @@
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\bin\Debug\net5.0\bbittlesBattleship.exe
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\bin\Debug\net5.0\bbittlesBattleship.deps.json
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\bin\Debug\net5.0\bbittlesBattleship.runtimeconfig.json
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\bin\Debug\net5.0\bbittlesBattleship.runtimeconfig.dev.json
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\bin\Debug\net5.0\bbittlesBattleship.dll
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\bin\Debug\net5.0\ref\bbittlesBattleship.dll
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\bin\Debug\net5.0\bbittlesBattleship.pdb
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.AssemblyInfo.cs
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.dll
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\ref\bbittlesBattleship.dll
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.pdb
+C:\Users\Ben\Desktop\C#Fall21\bbittlesBattleship\obj\Debug\net5.0\bbittlesBattleship.genruntimeconfig.cache

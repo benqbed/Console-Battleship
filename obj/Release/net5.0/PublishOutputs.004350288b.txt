@@ -1,0 +1,5 @@
+C:\Users\Ben\Desktop\BattleShip\bbittlesBattleship.exe
+C:\Users\Ben\Desktop\BattleShip\bbittlesBattleship.dll
+C:\Users\Ben\Desktop\BattleShip\bbittlesBattleship.deps.json
+C:\Users\Ben\Desktop\BattleShip\bbittlesBattleship.runtimeconfig.json
+C:\Users\Ben\Desktop\BattleShip\bbittlesBattleship.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df003b46-b5ca-483b-854f-e3367d2ad579": {
+      "ProjectGuid": "df003b46-b5ca-483b-854f-e3367d2ad579",
+      "DisplayName": "bbittlesBattleship",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

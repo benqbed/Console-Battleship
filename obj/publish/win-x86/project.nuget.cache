@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGDVVDEdlBiTChv0t2qRCfUBExkmMzMIQvza7Ycmc8z9FG+FIDEX0NpD/FOBd24bhk2DV9LcBItqv0C2RHICEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\Desktop\\C#Fall21\\bbittlesBattleship\\bbittlesBattleship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.9\\microsoft.netcore.app.runtime.win-x86.5.0.9.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.9.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.9\\microsoft.aspnetcore.app.runtime.win-x86.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

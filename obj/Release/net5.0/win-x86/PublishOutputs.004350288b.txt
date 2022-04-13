@@ -1,0 +1,6 @@
+C:\Users\Ben\Desktop\BattleShip\bbittlesBattleship.pdb
+C:\Users\Ben\Desktop\BattleShip\clrcompression.dll
+C:\Users\Ben\Desktop\BattleShip\clrjit.dll
+C:\Users\Ben\Desktop\BattleShip\coreclr.dll
+C:\Users\Ben\Desktop\BattleShip\mscordaccore.dll
+C:\Users\Ben\Desktop\BattleShip\bbittlesBattleship.exe

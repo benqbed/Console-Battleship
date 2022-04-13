@@ -1,0 +1,17 @@
+I am writing this post mortem at 1:35pm on the day of the assignment due date.
+
+That being said its not hard to guess that I proooobably procrastinated this assignment, 
+and if you did guess that then congratulations! You win a crisp high five because you're
+absolutely correct. The biggest trial I have faced is making this project over the past 
+15 hours on one energy drink and fried chicken. Figuring out how to get the logic to work
+was definately a big challenge especially given that I haven't really ever had a project
+this involved before, and I didn't go into it with an idea of how to implement anything.
+I trial-by-fired my way through the entire thing, trying different ways to get the ships
+to place and detect if they were hit or not until something worked and I stuck with it.
+This may lead to some quite gross code, however I was able to break lots of things down
+into helper methods which is something I have never done for any project. My biggest 
+improvement is going to be me making sure I start the next assignment sooner to have more
+time to ask questions on it and get your advice on certain aspects of the code.
+
+I spent approximately 18 hours on this assignment, the majority of which was the past 15 
+hours lol.
